@@ -1,0 +1,20 @@
+
+* {font-family: Helvetica, sans-serif;
+}
+
+html{background-image: url(background: radial-gradient(circle, rgba(0,212,255,1) 12%, rgba(3,139,207,1) 21%, rgba(9,9,121,1) 30%, rgba(2,0,36,1) 100%);
+);}
+
+body{font-family: Helvetica, sans-serif;
+	width: 800px;
+	margin: 1em auto;
+	border: 1px solid white;
+	box-shadow: 3px 15px 18px 10px black;
+	background: black;
+}
+h1{
+    color: aliceblue
+}
+dl{
+    color: aliceblue
+}
